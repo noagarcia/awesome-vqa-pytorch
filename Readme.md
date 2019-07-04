@@ -44,6 +44,9 @@ A (incomplete) list of PyTorch repositories for visual question answering.
 - Graph Attention (NeurIPS 2018)
 [[PyTorch]](https://github.com/aimbrain/vqa-project)
 [[Paper]](https://arxiv.org/abs/1806.07243)
+- Counter (ICLR 2018):
+[[PyTorch]](https://github.com/Cyanogenoid/vqa-counting)
+[[paper]](https://openreview.net/forum?id=B12Js_yRb)
 - Bottom-Up and Top-Down Attention (CVPR 2018):
 [[PyTorch]](https://github.com/hengyuan-hu/bottom-up-attention-vqa) 
 [[paper]](https://arxiv.org/abs/1707.07998)
@@ -65,6 +68,7 @@ Results as reported in each paper (single-model):
 | Pythia | VQA 2018 challenge winner | 70.24 |
 | BAN | NeurIPS 2018 | 70.35 |
 | Graph Attention | NeurIPS 2018 | 66.18 |
+| Counter | ICLR 2018 | 68.41 |
 | Bottom-Up and Top-Down | CVPR 2018 | 65.67 |
 
 
@@ -73,6 +77,9 @@ Results as reported in each paper (single-model):
 
 ## Video VQA
 
+- HME-VideoQA (CVPR 2019):
+[[PyTorch]](https://github.com/fanchenyou/HME-VideoQA)
+[[Paper]](https://arxiv.org/pdf/1904.04357.pdf)
 - TVQA (EMNLP 2018):
 [[PyTorch]](https://github.com/jayleicn/TVQA)
 [[Paper]](https://arxiv.org/abs/1809.01696)
