@@ -2,9 +2,11 @@
 
 A (incomplete) list of PyTorch repositories for visual question answering.
 
-![vqa](https://visualqa.org/static/img/challenge.png "VQA")
+<p align="center">
+  <img width="460" src="https://visualqa.org/static/img/challenge.png">
+</p>
 
-<sub>Image from the [VQA Challenge](https://visualqa.org/challenge.html).</sub>
+<sub>Image source: [VQA Challenge](https://visualqa.org/challenge.html).</sub>
 
 ## Contents
 
