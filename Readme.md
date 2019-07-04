@@ -1,6 +1,6 @@
 # Awesome Visual Question Answering in PyTorch [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A (incomplete) list of PyTorch repositories for visual question answering.
+A (probably incomplete) list of PyTorch repositories for visual question answering.
 
 <p align="center">
   <img width="460" src="https://visualqa.org/static/img/challenge.png">
