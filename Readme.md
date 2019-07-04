@@ -87,3 +87,14 @@ Results as reported in each paper (single-model):
 ## Contributing
 
 Please feel free to send me pull requests or an email to `noagarcia@ids.osaka-u.ac.jp` to add repositories.
+
+## License
+
+This repository is published under the Creative Commons license [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
+
+## References
+
+For other awesome-lists about VQA, please check:
+* [awesome-vqa](https://github.com/JamesChuanggg/awesome-vqa) by [JamesChuanggg](https://github.com/JamesChuanggg)
+* [awesome-visual-question-answering](https://github.com/jokieleung/awesome-visual-question-answering)
+by [jokieleung](https://github.com/jokieleung)
